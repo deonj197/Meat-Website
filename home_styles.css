@@ -1,0 +1,51 @@
+header, footer {
+	font-family: calibri;
+	background-color: rgb(204, 51, 0);
+    color: white;
+	text-align: center;
+	clear: left;
+	padding: 1em
+}
+
+body {
+	font-family: calibri;
+}
+
+nav {
+	float: left;
+	padding-left: 40px;
+	padding-right: 40px;
+	height: 500px;
+	background-color: rgb(224, 224, 209);
+}
+
+nav ul {
+	list-style-type: none;
+	
+	padding-left: 0px;
+}
+
+nav ul a {
+	color: black;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+	color: rgb(204, 51, 0);
+}
+
+article {
+	margin-left: 170px;
+}
+
+#photo {
+	float: right;
+	background-color: rgb(224, 224, 209);
+	height: 500px;
+	clear: right;
+}
+
+
+
+
